@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **MERN stack projects, Open source development, clean and scalable architecture**
 
-- 👨‍💻 All of my projects are available at [https://cognifyz-internship.vercel.app/](https://cognifyz-internship.vercel.app/)
+- 👨‍💻 Portfolio [https://cognifyz-internship.vercel.app/](https://cognifyz-internship.vercel.app/)
 
 - 💬 Ask me about **React, Php, JS, Tailwind CSS, Socket.io, MERN stack**
 
@@ -30,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu-kr-gupta&show_icons=true&locale=en" alt="priyanshu-kr-gupta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-kr-gupta&" alt="priyanshu-kr-gupta" /></p>
+
